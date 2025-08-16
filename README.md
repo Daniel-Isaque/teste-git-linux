@@ -1,7 +1,3 @@
 # teste-git-linux
 
-RECEBA
-
-TOMA UNIX
-
-CALMA DEBIANESO
+Teste de commit
